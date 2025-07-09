@@ -13,7 +13,7 @@ I'm a passionate Web Developer<br>
   <a href="https://discord.gg/nitinsahu0621" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://instagram.com/i_am_nitin_999" target="_blank">
+  <a href="https://www.instagram.com/i_am_nitin999/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://linkedin.com/in/nitin-sahu-a1b663323" target="_blank">
