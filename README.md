@@ -1,6 +1,6 @@
 <!-- AESTHETIC FLOATING PARTICLES -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=&fontSize=0"/>
+ 
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
 </div>
 
