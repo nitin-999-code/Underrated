@@ -20,12 +20,22 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+<br>
 
 
 <!-- Multi-line Typing Animation with Emojis -->
-<div align="center">
- 
+<!-- <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
+</div> -->
+
+
+<!-- Holopin Badge -->
+<div align="center">
+
+[![An image of @nitin999code's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitin999code)](https://holopin.io/@nitin999code)
+
+</div>
+
 
 
 
