@@ -46,7 +46,7 @@
 
 <br/>
 
-<!-- Snake Animation -->
+
 
 
 <br/>
