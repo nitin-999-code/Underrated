@@ -42,9 +42,9 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" >&nbsp;***About Me***
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/x-UUAYn6NpIAAAAM/%D0%B034.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/x-UUAYn6NpIAAAAM/%D0%B034.gif"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hey there! I'm Nitin Sahu
 <!-- https://astoryisnotatree.net/wp-content/uploads/2018/02/Evil_Iz_Gif21.gif -->
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Hey there! I'm Nitin Sahu**
+
 
 - 🔭 **Currently working on:** Full-stack web applications with React & Node.js
 - 🌱 **Learning:** MongoDB, Express.js, and advanced React patterns
