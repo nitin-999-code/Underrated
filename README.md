@@ -9,7 +9,7 @@
 <!-- SIMPLE ELEGANT SUBTITLE (Left-Aligned, Closer to Name) -->
 <div style="text-align: left; margin-left: 40px; margin-top: -10px;">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1500&color=FF6B35&background=00000000&vCenter=true&width=600&height=40&lines=🌟+Welcome+to+My+Digital+Universe+🌟;💻+Computer+Science+Engineering+Student;🚀+Passionate+Full+Stack+Developer;🌱+Always+Learning+%26+Growing;⚡+Turning+Ideas+Into+Reality!"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1500&color=FF6B35&background=00000000&vCenter=true&width=600&height=40&lines=Welcome+to+My+Digital+Universe;Computer+Science+Engineering+Student;Passionate+Full+Stack+Developer;Always+Learning+%26+Growing;⚡+Turning+Ideas+Into+Reality!"
     alt="Simple Title"
   />
 </div>
@@ -41,7 +41,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" >&nbsp;***About Me***
+
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/x-UUAYn6NpIAAAAM/%D0%B034.gif"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hey there! I'm Nitin Sahu
 <!-- https://astoryisnotatree.net/wp-content/uploads/2018/02/Evil_Iz_Gif21.gif -->
@@ -52,7 +52,7 @@
 - 👯 **Looking to collaborate on:** Open source projects and innovative web solutions
 - 🤔 **Ask me about:** React, JavaScript, Web Development, and Problem Solving
 - 💬 **Fun fact:** I love turning coffee into code! ☕➡️💻
-- 📫 **Reach me at:** [ns0779687@gmail.com](mailto:ns0779687@gmail.com)
+- 📫 **Reach me at:** [GMAIL](mailto:nitin.sahu9777@gmail.com)
 
 <br/>
 
