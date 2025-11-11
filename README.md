@@ -1,16 +1,10 @@
 <!-- AESTHETIC FLOATING PARTICLES -->   
 <!-- MULTILINGUAL NAME ANIMATION -->  
-<div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&width=800&height=120&lines=NITIN+SAHU;नितिन+साहू;尼丁+萨胡;ニティン+サフ;니틴+사후;Нитин+Саху" alt="Multilingual Name"/>
+<div align="left"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&width=800&height=120&lines=NITIN+SAHU;नितिन+साहू;尼丁+萨胡;ニティン+サフ;니틴+사후;Нитин+Саху" alt="Multilingual Name"/>
 </div>
-
-<!-- NEON GLOW SEPARATOR -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=800&height=50&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Neon Line"/>
-</div>
-
 <!-- SIMPLE ELEGANT SUBTITLE -->
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1500&color=FF6B35&background=00000000&center=true&vCenter=true&width=600&height=60&lines=🌟+Welcome+to+My+Digital+Universe+🌟;💻+Computer+Science+Engineering+Student;🚀+Passionate+Full+Stack+Developer;🌱+Always+Learning+%26+Growing;⚡+Turning+Ideas+Into+Reality!" alt="Simple Title"/>
 </div>
 
