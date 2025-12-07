@@ -1,4 +1,4 @@
- <!-- MULTILINGUAL NAME ANIMATION (Left-Aligned, No Big Gap) -->     
+ <!-- MULTILINGUAL NAME ANIMATION (Left-Aligned, No Big Gap) -->      
 <div style="text-align: left; margin-left: 40px; margin-top: 20px; margin-bottom: 5px;">   
 <img 
     src="https://readme-typing-svg.herokuapp.com?  font=Orbitron&weight=900&size=22&duration=2500&pause=800&color=00D9FF&background=00000000&vCenter=true&width=800&height=45&lines=NITIN+SAHU;नितिन+साहू;尼丁+萨胡;ニティン+サフ;니틴+사후;Нитин+Саху" 
