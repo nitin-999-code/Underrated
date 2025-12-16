@@ -3,7 +3,7 @@
 <img 
     src="https://readme-typing-svg.herokuapp.com?   font=Orbitron&weight=900&size=22&duration=2500&pause=800&color=00D9FF&background=00000000&vCenter=true&width=800&height=45&lines=NITIN+SAHU;नितिन+साहू;尼丁+萨胡;ニティン+サフ;니틴+사후;Нитин+Саху" 
     alt="Multilingual Name"
-  />
+  /> 
 </div>
 
 <!-- SIMPLE ELEGANT SUBTITLE (Left-Aligned, Closer to Name) -->
