@@ -5,7 +5,7 @@
     alt="Multilingual Name"
   /> 
 </div>
-
+ 
 <!-- SIMPLE ELEGANT SUBTITLE (Left-Aligned, Closer to Name) -->
 <div style="text-align: left; margin-left: 40px; margin-top: -10px;">
   <img 
