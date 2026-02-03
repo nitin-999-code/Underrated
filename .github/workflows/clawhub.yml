@@ -1,4 +1,4 @@
-name: Notify ClawHub
+name: ClawHub Automation
 
 on:
   push:
@@ -7,17 +7,18 @@ on:
     types: [ opened ]
 
 jobs:
-  notify:
+  notify-clawhub:
     runs-on: ubuntu-latest
     steps:
-      - name: Notify ClawHub
+      - name: Send event to ClawHub
         run: |
           curl -X POST https://clawhub.com/api/agent \
           -H "Authorization: Bearer ${{ secrets.CLAWHUB_TOKEN }}" \
           -H "Content-Type: application/json" \
           -d '{
-            "event": "github",
-            "repo": "${{ github.repository }}",
+            "source": "github",
+            "repository": "${{ github.repository }}",
             "actor": "${{ github.actor }}",
-            "message": "Event triggered"
+            "event": "${{ github.event_name }}",
+            "message": "New GitHub event received"
           }'
