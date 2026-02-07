@@ -1,0 +1,26 @@
+{
+    "name": "@devtunnel/cli",
+    "version": "1.0.0",
+    "description": "DevTunnel+ CLI - Connect your local server to the internet",
+    "main": "src/index.js",
+    "bin": {
+        "devtunnel": "./src/index.js"
+    },
+    "scripts": {
+        "start": "node src/index.js",
+        "dev": "node --watch src/index.js",
+        "test": "jest"
+    },
+    "dependencies": {
+        "@devtunnel/shared": "*",
+        "commander": "^11.1.0",
+        "ws": "^8.16.0",
+        "chalk": "^4.1.2",
+        "ora": "^5.4.1",
+        "boxen": "^5.1.2",
+        "axios": "^1.6.5"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}

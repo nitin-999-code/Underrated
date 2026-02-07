@@ -1,0 +1,15 @@
+{
+    "name": "@devtunnel/shared",
+    "version": "1.0.0",
+    "description": "Shared utilities and protocol messages for DevTunnel+",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "nanoid": "^3.3.7"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}

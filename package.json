@@ -1,0 +1,23 @@
+{
+  "name": "devtunnel-plus",
+  "version": "1.0.0",
+  "description": "A complete developer tunneling platform with advanced debugging and security features",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:gateway": "npm run dev --workspace=apps/gateway-server",
+    "dev:cli": "npm run dev --workspace=apps/cli-client",
+    "dev:dashboard": "npm run dev --workspace=apps/dashboard",
+    "build:all": "npm run build --workspaces",
+    "test:all": "npm run test --workspaces --if-present",
+    "lint:all": "npm run lint --workspaces --if-present"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "DevTunnel+ Team",
+  "license": "MIT"
+}

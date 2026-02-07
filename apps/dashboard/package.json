@@ -1,0 +1,10 @@
+{
+  "name": "@devtunnel/dashboard",
+  "version": "1.0.0",
+  "description": "DevTunnel+ Dashboard - Real-time monitoring and debugging (Coming in Phase 2)",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Dashboard will be implemented in Phase 2'",
+    "build": "echo 'Dashboard will be implemented in Phase 2'"
+  }
+}
